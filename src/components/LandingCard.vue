@@ -54,6 +54,7 @@ const daftarPropotition = [
 }
 .card {
   background-color: rgb(58, 58, 232);
+  color:white;
   height: 200px;
   width: 100%;
   padding: 50px;

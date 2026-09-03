@@ -25,7 +25,7 @@ defineProps(['gambar', 'h2', 'h3'])
   text-align: center;
   transition: transform 0.2s ease, box-shadow 0,2s ease;
 }
-.card-hover {
+.card:hover {
   transform: translateY(-5px);
 }
 .icon {
