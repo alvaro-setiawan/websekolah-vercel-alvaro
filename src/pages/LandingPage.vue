@@ -5,20 +5,19 @@ const daftarPropotition = [
   {
     gambar: '🐱‍🏍',
     h2: 'Kualitas Terjamin',
-    h3: 'Bahan langsung dari swiss'
+    h3: 'Bahan langsung dari swiss',
   },
   {
     gambar: '🐱‍💻',
-    h2  : 'Harga Ramah Di Kantong',
-    h3: 'Harga yang kompetitif tanpa mengorbankan kualitas'
+    h2: 'Harga Ramah Di Kantong',
+    h3: 'Harga yang kompetitif tanpa mengorbankan kualitas',
   },
   {
     gambar: '🐱‍🐉',
     h2: 'Pengiriman Cepat',
-    h3: 'Pengiriman cepat dan aman ke seluruh Indonesia'
-  }
+    h3: 'Pengiriman cepat dan aman ke seluruh Indonesia',
+  },
 ]
-
 </script>
 <template>
   <main>
@@ -35,14 +34,13 @@ const daftarPropotition = [
   </main>
 </template>
 <style scoped>
-  .container {
-    display: flex;
-    gap: 20px;
-    place-content: center;
-    flex-wrap: wrap;
-  }
-  </style>
-  <!-- <template>
+.container {
+  display: flex;
+  gap: 15px;
+  place-content: center;
+}
+</style>
+<!-- <template>
     <main>
       <div class="hero bg-indigo-500 p-[100px] flex flex col items-center"></div>
     </main>
