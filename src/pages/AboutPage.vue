@@ -33,5 +33,6 @@ import TeamCard from '../components/TeamCard.vue'
   overflow: hidden;
   margin: 10px;
   text-align: center;
+  border-radius: 10px;
 }
 </style>
